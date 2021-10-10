@@ -1,0 +1,48 @@
+.bg-head {
+	background-color: #fffbf0;
+}
+.logo-img {
+	width: 60%;
+}
+.penguins-text {
+	text-transform: uppercase;
+	color: #fabe4c;
+	font-size: 48px;
+}
+.text-2 {
+	color: #363958;
+}
+.buy-btn {
+	background-color: #98b134;
+	width: 130px;
+	color: #fff;
+  text-transform: uppercase;
+}
+.fashion-img {
+	width: 80%;
+}
+.female-jacket {
+	color: #363958;
+	text-transform: uppercase;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.woman-jackets {
+	height: 440px;
+	width: 100%;
+}
+.card-title {
+	color: #363958;
+	text-transform: capitalize;
+}
+.card-text {
+	text-align: justify;
+}
+.price-text {
+	color: #fabe4c;
+	font-weight: 800;
+}
+.man-jackets {
+	height: 440px;
+	width: 100%;
+}
