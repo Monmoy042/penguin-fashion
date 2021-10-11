@@ -16,7 +16,7 @@
 	background-color: #98b134;
 	width: 130px;
 	color: #fff;
-  text-transform: uppercase;
+	text-transform: uppercase;
 }
 .fashion-img {
 	width: 80%;
@@ -45,4 +45,29 @@
 .man-jackets {
 	height: 440px;
 	width: 100%;
+}
+.last {
+	margin-top: 150px;
+}
+.last-img {
+	width: 50%;
+}
+.footer{
+	margin-top: 80px;
+}
+.foot-text{
+	color: #363958;
+	text-transform: uppercase;
+}
+.fb {
+	color: #1094f4;
+	cursor: pointer;
+}
+.insta {
+	color: #d43a93;
+	cursor: pointer;
+}
+.linkedin{
+	color: #006DB0;
+	cursor: pointer;
 }
